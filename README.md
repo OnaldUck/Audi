@@ -27,5 +27,4 @@ Funktion | Ausführung
 Screenshot | **TEL** + **MEDIA**
 
 
-asdsa | sdadfsaf
 
