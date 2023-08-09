@@ -9,6 +9,11 @@ Audi Q3 8U
 - öffnen - **CAR** + **BACK**
 - beenden - **CAR**
 
+Funktion | Durchführung
+-- | --
+öffnen | **CAR** + **BACK**
+beenden | **CAR**
+
 ### Developer Menu (Green Menu)
 - öffnen - CAR + MENU
 - beenden - CAR
