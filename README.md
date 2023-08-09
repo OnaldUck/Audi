@@ -26,8 +26,10 @@ Funktion | Ausführung
 -- | --
 Screenshot | **TEL** + **MEDIA**
 
-### MMI FSC Keys sichern 
-Sichern der Keys auf der Unit mit: SYSTEM > Activation Keys > Export Keys > SD1
+### MMI FSC Keys sichern (Red Menu)
+Sichern der Keys auf der Unit mit:
+
+SYSTEM > Activation Keys > Export Keys > SD1
 Einspielen der gesicherten Keys dann mit: SYSTEM > Activation Keys > Import Keys > SD1
 
 
