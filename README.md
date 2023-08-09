@@ -6,8 +6,8 @@ Audi Q3 8U
 - Restart (Affengriff) - `TONE` + `OK` + obere rechte Funktionstaste
 
 ### Engineer Menu (Red Menu) (Hidden Menu)
-- öffnen - CAR + BACK
-- beenden - CAR
+- öffnen - **CAR** + **BACK**
+- beenden - **CAR**
 
 ### Developer Menu (Green Menu)
 - öffnen - CAR + MENU
