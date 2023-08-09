@@ -2,18 +2,20 @@
 
 Audi Q3 8U
 
-## MMI 3GP (Multi Media Interface)
+## MMI 3GP+R (Multi Media Interface)
 - Restart (Affengriff) - `TONE` + `OK` + obere rechte Funktionstaste
 
 ### Engineer Menu (Red Menu) (Hidden Menu)
 Es muss vorher via Script freigeschaltet werden
-asas | asad
+
+Funktion | Ausführung
 -- | --
 öffnen | **CAR** + **BACK**
 beenden | **CAR**
 
 ### Developer Menu (Green Menu)
 
+Funktion | Ausführung
 -- | --
 öffnen | **CAR** + **MENU**
 beenden | **CAR**
