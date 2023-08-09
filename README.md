@@ -1,8 +1,9 @@
 # Audi
+Audi Q3 8U
 
 ## MMI
-
-- Restart/Affengriff TONE + OK + obere rechte Funktionstaste
+Engen
+- Restart (Affengriff) - TONE + OK + obere rechte Funktionstaste
 
 Hidden-Menu
 - öffnen - CAR + MENU
