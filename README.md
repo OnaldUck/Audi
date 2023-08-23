@@ -42,7 +42,11 @@ wait a minute more.
 - nach dem Firmwareupdate kann man wieder Enable_Green_Menu einsppielen
 - ein MicroSD > SD-Karen Adapter ist problemlos möglich
 - 64GB Karten können funktionieren (es gibt keine Probleme, entweder wird es erkannt oder nicht)
+- 64GB unter Windows mit FAT32 mit ##guiformat64.exe ist problemlos möglich
 
 ## Karten Update
-
+- das Update dauert wirklich ca. 1.5h ! Deshalb nur mit angeschlossenen Ladegerät durchführen
+- - es wird dabei 2-3 gebootet, die Karte kann drin bleiben
+- XCodeCalculator.html
+- Vlasoff maps activation 2016-2017-2018.rar
 
