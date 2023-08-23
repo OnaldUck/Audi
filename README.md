@@ -37,4 +37,12 @@ Einspielen der gesicherten Keys dann mit: SYSTEM > Activation Keys > Import Keys
 Wait until all options are working (no options in gray) even when all options are working
 wait a minute more.
 
+## Firmware Upgrade
+- Ein Firmwareupgrade kann direkt auf die höhste Version ohne Zwischenschritte erfolgen.
+- nach dem Firmwareupdate kann man wieder Enable_Green_Menu einsppielen
+- ein MicroSD > SD-Karen Adapter ist problemlos möglich
+- 64GB Karten können funktionieren (es gibt keine Probleme, entweder wird es erkannt oder nicht)
+
+## Karten Update
+
 
