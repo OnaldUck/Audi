@@ -33,7 +33,7 @@ SYSTEM > Activation Keys > Export Keys > SD1
 Einspielen der gesicherten Keys dann mit: SYSTEM > Activation Keys > Import Keys > SD1
 
 ### Make sure that MMI is fully booted
-(press all buttons once RADIO CAR NAV MEDIA TEL).
+(press all buttons once RADIO CAR NAV MEDIA TEL). 
 Wait until all options are working (no options in gray) even when all options are working
 wait a minute more.
 
@@ -46,7 +46,10 @@ wait a minute more.
 
 ## Karten Update
 - das Update dauert wirklich ca. 1.5h ! Deshalb nur mit angeschlossenen Ladegerät durchführen
-- - es wird dabei 2-3 gebootet, die Karte kann drin bleiben
-- XCodeCalculator.html
-- Vlasoff maps activation 2016-2017-2018.rar
+ - es wird dabei 2-3 gebootet, die Karte kann drin bleiben
+
+AKtivierung
+- MAC Adresse auslesen
+- in XCodeCalculator.html einfügen 
+- und die Datei entsprechne umbenennen in Vlasoff maps activation 2016-2017-2018.rar
 
