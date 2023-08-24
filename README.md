@@ -46,7 +46,8 @@ wait a minute more.
 
 ## Karten Update
 - das Update dauert wirklich ca. 1.5h ! Deshalb nur mit angeschlossenen Ladegerät durchführen
- - es wird dabei 2-3 gebootet, die Karte kann drin bleiben
+- es wird dabei 2-3 gebootet, die Karte kann drin bleiben
+- bei Boose Sound System - benutzerdefiniertes Update durchführen (zuvor im REG Menu ohne reboot es freischalten)
 
 AKtivierung
 - MAC Adresse auslesen
