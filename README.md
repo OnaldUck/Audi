@@ -49,11 +49,11 @@ wait a minute more.
 - es wird dabei 2-3 gebootet, die Karte kann drin bleiben
 - bei Boose Sound System - benutzerdefiniertes Update durchführen (zuvor im REG Menu ohne reboot es freischalten)
 
-AKtivierung
+## Aktivierung
 - MAC Adresse auslesen
 - in XCodeCalculator.html einfügen 
 - und die Datei entsprechne umbenennen in Vlasoff maps activation 2016-2017-2018.rar
 
-HEX V2
+## HEX V2
 - Hinweis: Ab Version 08.023.04 läuft der Loader nicht mehr in einer virtuellen / virtualisierungsfähigen Umgebung und es kann auch kein Downgrade der Firmware mehr erfolgen!
 
